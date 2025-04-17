@@ -1,5 +1,5 @@
 <p align="center">
   <h2>Hello stranger</h2>
-  <img src="assets/brian-moser-dexter.gif" width="150" alt="GitHub Profile" />
+  <img src="assets/see-ya-jonas-taylor.gif" alt="GitHub Profile" />
 </p>
 
