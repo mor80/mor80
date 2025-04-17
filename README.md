@@ -1,5 +1,5 @@
 <p align="center">
   <h2>Hello stranger</h2>
-  <a href="https://tenor.com/ru/view/brian-moser-dexter-whize-gif-2449040049678383602">cutie</a>
+  <img src="assets/brian-moser-dexter.gif" width="150" alt="GitHub Profile" />
 </p>
 
