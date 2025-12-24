@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV3MWFqbnVuMzBtMDFydDVsdmJ6dW90cGY4Zm82enNncXpxdnpoYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6LMCkc5oqhdyU/giphy.gif" alt="Hello" width="700" />
 </p>
 
-<a href="assets/CV.pdf">
+<a href="assets/Emre_s_Resume.pdf">
   <img src="https://img.shields.io/badge/Resume-CV.pdf-2ea44f?style=for-the-badge" alt="Resume"/>
 </a>
 <a href="mailto:egmor80@gmail.com">
