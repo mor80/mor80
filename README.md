@@ -34,7 +34,7 @@ Backend Engineer • Go / Python • PostgreSQL • Docker
 > A few things I’m proud of (more in my repos tab).
 
 - **Avito Coursework** - microservice app for working with couriers  
-  → Org: https://github.com/mor80/avito-coursework
+  → Repo: https://github.com/mor80/avito-coursework
 
 - **ZnayMed** - TG-bot with courses for medical students  
   → Org: https://github.com/ZnayMed
